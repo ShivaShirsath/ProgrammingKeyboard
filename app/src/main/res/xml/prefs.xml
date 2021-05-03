@@ -31,8 +31,7 @@
             hk:displayFormat="%.0f%%"
             android:key="settings_height_portrait"
             android:title="@string/title_keyboard_height_portrait"
-            android:persistent="true"
-            />
+            android:persistent="true"/>
 
 		<ss.ProgrammingKeyBoard.SeekBarPreferenceString
             android:defaultValue="@string/default_height_landscape"

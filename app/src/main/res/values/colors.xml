@@ -7,8 +7,8 @@
     <color name="latinkeyboard_bar_language_shadow_white">#80000000</color>
     <color name="latinkeyboard_bar_language_shadow_black">#80FFFFFF</color>
     <color name="latinkeyboard_dim_color_white">#FFDDDDDD</color>
-    <color name="latinkeyboard_dim_color_black">#FF222222</color>
-    <color name="latinkeyboard_extension_background">#A0000000</color>
+    <color name="latinkeyboard_dim_color_black">#FF000000</color>
+    <color name="latinkeyboard_extension_background">#FF000000</color>
     <color name="latinkeyboard_feedback_language_text">#FFFFFFFF</color>
     <color name="latinkeyboard_key_color_white">#FFFFFFFF</color>
     <color name="latinkeyboard_key_color_black">#FF000000</color>
@@ -23,7 +23,7 @@
     <color name="key_text_color_material_dark">#CCFFFFFF</color>
     <color name="key_hint_letter_color_material_dark">#80FFFFFF</color>
     <color name="key_background_material_light">#ECEFF1</color>
-    <color name="key_background_pressed_material_light">#26FF0F00</color>
+    <color name="key_background_pressed_material_light">#ff8800</color>
     <color name="key_text_color_material_light">#000000</color>
-    <color name="key_hint_letter_color_material_light">#B300FF3F</color>
+    <color name="key_hint_letter_color_material_light">#888888</color>
 </resources>

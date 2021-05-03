@@ -15,7 +15,7 @@
         latin:keyTextColor="#FFFFFFFF"
         latin:keyHintColor="#FFAAAAAA"
         latin:keyCursorColor="#FFFFFFFF"
-        latin:shadowColor="#FF33B5E5"
+        latin:shadowColor="#FFE5B533"
         latin:shadowRadius="9"
         latin:keyTextStyle="bold"
         latin:recolorSymbols="true"

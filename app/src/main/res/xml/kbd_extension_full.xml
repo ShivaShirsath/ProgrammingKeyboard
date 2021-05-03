@@ -24,6 +24,7 @@
 			android:keyLabel="⌂" />
 	<Key
             android:codes="@integer/key_end"
+			
             android:isModifier="true"            
 			android:keyLabel="⋿"
             android:keyEdgeFlags="right" />

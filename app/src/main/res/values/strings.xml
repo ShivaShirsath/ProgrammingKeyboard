@@ -154,13 +154,13 @@
     <string name="touch_to_finish">Touch here to close this hint and start typing!</string>
 
     <!-- Label for soft enter key when it performs GO action.  Must be short to fit on key! -->
-    <string name="label_go_key">Go</string>
+    <string name="label_go_key">⤷</string>
     <!-- Label for soft enter key when it performs NEXT action.  Must be short to fit on key! -->
-    <string name="label_next_key">Next</string>
+    <string name="label_next_key">↬</string>
     <!-- Label for soft enter key when it performs DONE action.  Must be short to fit on key! -->
-    <string name="label_done_key">Done</string>
+    <string name="label_done_key">✓</string>
     <!-- Label for soft enter key when it performs SEND action.  Must be short to fit on key! -->
-    <string name="label_send_key">Send</string>
+    <string name="label_send_key">➢</string>
     <!-- Label for "switch to symbols" key.  Must be short to fit on key! -->
     <string name="label_symbol_key">\?123</string>
     <!-- Label for "switch to numeric" key.  Must be short to fit on key! -->
@@ -386,7 +386,7 @@
 
     <string name="title_ctrl_a_override">Ctrl-A (select all) override</string>
     <string name="toast_ctrl_a_override_info">Ctrl-A is disabled. Use Ctrl-Alt-A instead, or enable it in settings.</string>
-    <string name="default_ctrl_a_override">0</string>
+    <string name="default_ctrl_a_override">2</string>
     <string-array name="ctrl_a_override_entries">
         <item>Disable Ctrl-A, use Ctrl-Alt-A instead</item>
         <item>Disable Ctrl-A completely</item>
@@ -578,12 +578,12 @@
         <item>lang_prev</item>
         <item>lang_next</item>
     </string-array>    
-    <string name="default_swipe_up">extension</string>
+    <string name="default_swipe_up">voice_input</string>
     <string name="default_swipe_down">close</string>
-    <string name="default_swipe_left">none</string>
-    <string name="default_swipe_right">none</string>
-    <string name="default_vol_up">none</string>
-    <string name="default_vol_down">none</string>
+    <string name="default_swipe_left">suggestions</string>
+    <string name="default_swipe_right">suggestions</string>
+    <string name="default_vol_up">extension</string>
+    <string name="default_vol_down">full_mode</string>
         
     <string name="title_popup_content">Popup mini-keyboard contents</string>
     <string-array name="popup_content_entries">
@@ -657,7 +657,7 @@
     <string name="seek_pref_0">0%</string>
     <string name="seek_pref_val">x%</string>
     <string name="seek_pref_max">100%</string>
-    <string name="notification_channel_name">PCkeyboard</string>
-    <string name="notification_channel_description">PCkeyboard</string>
+    <string name="notification_channel_name">Programming keyboard</string>
+    <string name="notification_channel_description">Programming keyboard</string>
     <string name="notification_action_settings">Settings</string>
 </resources>

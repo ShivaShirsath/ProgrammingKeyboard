@@ -6,8 +6,8 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:background="@drawable/keyboard_popup_panel_background"
-        android:paddingLeft="16dip"
-        android:paddingRight="16dip"
+        android:paddingLeft="25dip"
+        android:paddingRight="25dip"
         >
     <ss.ProgrammingKeyBoard.LatinKeyboardBaseView
             xmlns:latin="http://schemas.android.com/apk/res-auto"

@@ -30,7 +30,7 @@
     
     <string name="key_ae01_main">&amp;</string>
     <string name="key_ae01_shift">1</string>
-    <string name="key_ae01_alt">1&amp;½⅓¼⅛</string>
+    <string name="key_ae01_alt">d&amp;½⅓¼⅛</string>
 
     <string name="key_ae02_main">é</string>
     <string name="key_ae02_shift">2</string>

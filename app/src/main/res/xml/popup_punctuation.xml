@@ -23,11 +23,9 @@
     android:keyWidth="10%p"
     android:horizontalGap="0px"
     android:verticalGap="0px"
-    android:keyHeight="@dimen/popup_key_height"
->
+    android:keyHeight="@dimen/popup_key_height">
     <Row
-        android:rowEdgeFlags="top"
-    >
+        android:rowEdgeFlags="top">
         <Key
             android:keyLabel=":"
             android:keyEdgeFlags="left" />
@@ -46,8 +44,7 @@
             android:keyEdgeFlags="right" />
     </Row>
     <Row
-        android:rowEdgeFlags="bottom"
-    >
+        android:rowEdgeFlags="bottom">
         <Key
             android:keyLabel=";"
             android:keyEdgeFlags="left" />

@@ -26,8 +26,7 @@
     android:keyHeight="@dimen/popup_key_height"
 >
     <Row
-        android:rowEdgeFlags="top|bottom"
-    >
+        android:rowEdgeFlags="top|bottom">
         <Key
             android:codes="@integer/key_settings"
             android:keyIcon="@drawable/sym_keyboard_settings"

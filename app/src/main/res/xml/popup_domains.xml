@@ -23,11 +23,9 @@
     android:keyWidth="15%p"
     android:horizontalGap="0px"
     android:verticalGap="0px"
-    android:keyHeight="@dimen/popup_key_height"
->
+    android:keyHeight="@dimen/popup_key_height">
     <Row
-        android:rowEdgeFlags="top|bottom"
-    >
+        android:rowEdgeFlags="top|bottom"    >
         <Key
             android:keyLabel="@string/popular_domain_1"
             android:keyOutputText="@string/popular_domain_1"

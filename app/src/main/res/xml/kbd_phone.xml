@@ -22,11 +22,9 @@
     xmlns:android="http://schemas.android.com/apk/res-auto"
     android:keyWidth="26.67%p"
     android:horizontalGap="0px"
-    android:verticalGap="@dimen/key_bottom_gap"
->
+    android:verticalGap="@dimen/key_bottom_gap">
     <Row
-        android:rowEdgeFlags="top"
-    >
+        android:rowEdgeFlags="top">
         <Key
             android:codes="49"
             android:keyIcon="@drawable/sym_keyboard_num1"
